@@ -3,7 +3,7 @@ If you find any bugs, report at @Dads_links
 
 **My Features**:
 
-👉 Upload as file/video from any NON-DRM Zee5 link
+👉 Upload as file/video from any NON-DRM Vrott link
 
 👉 Permanent thumbnail support.
 
